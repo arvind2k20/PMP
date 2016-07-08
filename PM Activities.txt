@@ -1,0 +1,418 @@
+
+
+
+According to PMI, “project management is the application of knowledge, skills, tools, and techniques to a broad range of activities in order to meet the requirements of a particular project.” 
+
+
+
+Five phases of project management
+
+Conception/Initiation
+	Project summary
+	Project Charter
+Planning
+	Defining Scope and goal
+	Time-EStimation WBS
+	Task Sequencing
+	Defining milestone and deadlines
+	Gantt Chart
+	Cost/Budget Planning
+	Resource Planning
+	Risk Management
+	Communication Plan
+	
+
+Execution
+	Status and tracking
+	Managing scheduling
+	KPI (Key Performance Indicators)
+	Quality
+	Forecasts
+
+Managing / Controlling
+	Quality Deliverables
+	Review project progress
+	Effort and cost tracking
+	Performance metrics
+	Status Meeting
+
+Closure
+	Signoff
+	Lesson learned
+	Project closure report
+
+
+Phase 1: Project Initiation
+
+This is the start of the project, and the goal of this phase is to define the project at a broad level. Feasibility study is done at this phase.
+
+1) PID - 
+To create a project charter or a project initiation document (PID) that outlines the purpose and requirements of the project. It should include business needs, stakeholders, and the business case. Note: There are plenty of PID templates that adhere to PMBOK guidelines available online that you can download to help you get started.
+
+
+Phase 1: Project Planning
+
+This phase focuses on developing a roadmap that everyone will follow. It start with setting goals. Two of the more popular methods of setting goals are SMART and CLEAR
+
+SMART Goals : This mehtod helps ensure that the gaols have been throughly vetted. It also provides a way to clearly understand the implications of the goal setting process.
+**vetted - make a careful and critical examination of (something).
+
+
+Specific : To set specific goals, answer the following questions : who, what, where, when , which and why?
+Measurable : Create criteria that you can use to measure the success of a goal.
+Attainable : Identify the most important goals and what it will take to achieve them.
+Realistic : You should be willing and able to work toward a particular goal.
+Timely : Create a timeframe to achieve the goal.
+
+C.L.E.A.R. Goals – A newer method for setting goals that takes into consideration the environment of today’s fast-paced businesses.
+
+Collaborative – The goal should encourage employees to work together.
+Limited – They should be limited in scope and time to keep it manageable.
+Emotional – Goals should tap into the passion of employees and be something they can form an emotional 	    connection to. This can optimize the quality of work.
+Appreciable – Break larger goals into smaller tasks that can be quickly achieved.
+Refinable – As new situations arise, be flexible and refine goals as needed.
+ 
+
+During this phase, the scope of the project is defined and a project management plan is developed. It involves identifying the cost, quality, available resources, and a realistic timetable. The project plans also includes establishing baselines or performance measures. These are generated using the scope, schedule and cost of a project. A baseline is essential to determine if a project is on track.
+
+
+Share on Facebook
+ Share on Twitter
+ Share on LinkedIn
+ Share by Email
+Demystifying the 5 Phases of Project Management
+
+ Emily Esposito's picture
+Emily Esposito on October 5, 2015
+At the root of any successful project is a project manager (PM) worth his or her weight in gold. While some people think a project manager’s sole job is to remind everyone about deadlines and set up status meeting, that’s simply not the case. 
+
+There is a science to what they do -- they have a deep understanding of and can perfectly execute the five phases of project management. In this article, we’ll cover what each of these phases entail and share tips for boosting success during each stage.
+ 
+Developed by the Project Management Institute (PMI), the five phases of project management include conception and initiation, planning, execution, performance/monitoring, and project close. PMI, which began in 1969, is the world’s largest nonprofit membership association for the project management profession. It has set the standards for project, program, and portfolio management and offers training and certifications. The gold standard of certification from the association is the Project Management Professional (PMP) certification. There are seven other certifications available for different types of project management.
+ 
+In an effort to standardize project management information and practices, a team of over 80 PMI members created the Project Management Book of Knowledge (PMBOK). Currently in its fifth edition, the PMBOK Guide is continually being updated by the PMI and shares the fundamental practices that are used worldwide to achieve the best results. The PMBOK includes a process standard that can be applied to many projects; however, it does recognize that each project is different. It is up to PMPs to apply the techniques and phases covered in the PMBOK to the unique requirements of their project.
+
+PMBOK Concept of the Project Life Cycle
+
+When discussing project management phases, the mention of project life cycle is inevitable. So what’s the difference? The project phases make up a project life cycle, and as such, the phases are tailored to fit a project’s needs. According to the PMBOK, the elements of a project life cycle should define:
+
+What work must be accomplished
+What deliverables must be generated and reviewed
+Who must be involved
+How to control and approve each phase 
+Determining these elements will take a project from start to finish. It provides a systematic, timely, and controlled process that benefits a project’s stakeholders. This helps PMs define what needs to be accomplished before moving onto the next phase of a project.
+
+5 Phases of Project Management
+
+According to PMI, “project management is the application of knowledge, skills, tools, and techniques to a broad range of activities in order to meet the requirements of a particular project.” There are five phases of project management and if the lifecycle provides a high-level view of the project, the phases are the roadmap to accomplishing it.
+
+5 Phases of Project Management
+Phase 1: Project Initiation
+
+This is the start of the project, and the goal of this phase is to define the project at a broad level. This phase usually begins with a business case. This is when you will research whether the project is feasible and if it should be undertaken. If feasibility testing needs to be done, this is the stage of the project in which that will be completed.
+ 
+Important stakeholders will do their due diligence to help decide if the project is a “go.” If it is given the green light, you will need to create a project charter or a project initiation document (PID) that outlines the purpose and requirements of the project. It should include business needs, stakeholders, and the business case. Note: There are plenty of PID templates that adhere to PMBOK guidelines available online that you can download to help you get started.
+ 
+Tip: When creating a PID, don’t get too bogged down in technical requirements. Those will be clarified and clearly defined in Phase 2.
+
+Phase 2: Project Planning
+
+This phase is key to successful project management and focuses on developing a roadmap that everyone will follow. This phase typically begins with setting goals. Two of the more popular methods for setting goals are S.M.A.R.T. and CLEAR:
+ 
+
+Smart Goals
+S.M.A.R.T. Goals – This method helps ensure that the goals have been thoroughly vetted. It also provides a way to clearly understand the implications of the goal-setting process.
+Specific – To set specific goals, answer the following questions: who, what, where, when, which, and why.
+Measurable – Create criteria that you can use to measure the success of a goal.
+Attainable – Identify the most important goals and what it will take to achieve them.
+Realistic – You should be willing and able to work toward a particular goal.
+Timely – Create a timeframe to achieve the goal.
+
+For more information about S.M.A.R.T. goals and to download free S.M.A.R.T. goal templates, read "The Essential Guide to Writing S.M.A.R.T. Goals."
+ 
+C.L.E.A.R. Goals – A newer method for setting goals that takes into consideration the environment of today’s fast-paced businesses.
+
+Collaborative – The goal should encourage employees to work together.
+Limited – They should be limited in scope and time to keep it manageable.
+Emotional – Goals should tap into the passion of employees and be something they can form an emotional connection to. This can optimize the quality of work.
+Appreciable – Break larger goals into smaller tasks that can be quickly achieved.
+Refinable – As new situations arise, be flexible and refine goals as needed.
+ 
+During this phase, the scope of the project is defined and a project management plan is developed. It involves identifying the cost, quality, available resources, and a realistic timetable. The project plans also includes establishing baselines or performance measures. These are generated using the scope, schedule and cost of a project. A baseline is essential to determine if a project is on track.
+ 
+At this time, roles and responsibilities are clearly defined, so everyone involved knows what they are accountable for. Here are some of the documents a PM will create during this phase to ensure the project will stay on track:
+
+
+Scope Statement – A document that clearly defines the business need, benefits of the project, objectives, deliverables, and key milestones. A scope statement may change during the project, but it shouldn’t be done without the approval of the project manager and the sponsor.
+
+Work Breakdown Schedule (WBS) –This is a visual representation that breaks down the scope of the project into manageable sections for the team.
+Milestones – Identify high-level goals that need to be met throughout the project and include them in the Gantt chart.
+
+Gantt Chart – A visual timeline that you can use to plan out tasks and visualize your project timeline.
+
+Communication Plan – This is of particular importance if your project involves outside stakeholders. Develop the proper messaging around the project and create a schedule of when to communicate with team members based on deliverables and milestones.
+
+Risk Management Plan – Identify all foreseeable risks. Common risks include unrealistic time and cost estimates, customer review cycle, budget cuts, changing requirements, and lack of committed resources.
+
+Tip: When creating a WBS, work packages shouldn’t be longer than 10 days. Be sure to solicit the input and perspective from team members about their specific tasks.
+
+
+
+
+
+
+
+Share on Facebook
+ Share on Twitter
+ Share on LinkedIn
+ Share by Email
+Demystifying the 5 Phases of Project Management
+
+ Emily Esposito's picture
+Emily Esposito on October 5, 2015
+At the root of any successful project is a project manager (PM) worth his or her weight in gold. While some people think a project manager’s sole job is to remind everyone about deadlines and set up status meeting, that’s simply not the case. 
+
+There is a science to what they do -- they have a deep understanding of and can perfectly execute the five phases of project management. In this article, we’ll cover what each of these phases entail and share tips for boosting success during each stage.
+ 
+Developed by the Project Management Institute (PMI), the five phases of project management include conception and initiation, planning, execution, performance/monitoring, and project close. PMI, which began in 1969, is the world’s largest nonprofit membership association for the project management profession. It has set the standards for project, program, and portfolio management and offers training and certifications. The gold standard of certification from the association is the Project Management Professional (PMP) certification. There are seven other certifications available for different types of project management.
+ 
+In an effort to standardize project management information and practices, a team of over 80 PMI members created the Project Management Book of Knowledge (PMBOK). Currently in its fifth edition, the PMBOK Guide is continually being updated by the PMI and shares the fundamental practices that are used worldwide to achieve the best results. The PMBOK includes a process standard that can be applied to many projects; however, it does recognize that each project is different. It is up to PMPs to apply the techniques and phases covered in the PMBOK to the unique requirements of their project.
+
+PMBOK Concept of the Project Life Cycle
+
+When discussing project management phases, the mention of project life cycle is inevitable. So what’s the difference? The project phases make up a project life cycle, and as such, the phases are tailored to fit a project’s needs. According to the PMBOK, the elements of a project life cycle should define:
+
+What work must be accomplished
+What deliverables must be generated and reviewed
+Who must be involved
+How to control and approve each phase 
+Determining these elements will take a project from start to finish. It provides a systematic, timely, and controlled process that benefits a project’s stakeholders. This helps PMs define what needs to be accomplished before moving onto the next phase of a project.
+
+5 Phases of Project Management
+
+According to PMI, “project management is the application of knowledge, skills, tools, and techniques to a broad range of activities in order to meet the requirements of a particular project.” There are five phases of project management and if the lifecycle provides a high-level view of the project, the phases are the roadmap to accomplishing it.
+
+5 Phases of Project Management
+
+
+Phase 1: Project Initiation
+----------------------------------
+This is the start of the project, and the goal of this phase is to define the project at a broad level. This phase usually begins with a business case. This is when you will research whether the project is feasible and if it should be undertaken. If feasibility testing needs to be done, this is the stage of the project in which that will be completed.
+ 
+Important stakeholders will do their due diligence to help decide if the project is a “go.” If it is given the green light, you will need to create a project charter or a project initiation document (PID) that outlines the purpose and requirements of the project. It should include business needs, stakeholders, and the business case. Note: There are plenty of PID templates that adhere to PMBOK guidelines available online that you can download to help you get started.
+ 
+Tip: When creating a PID, don’t get too bogged down in technical requirements. Those will be clarified and clearly defined in Phase 2.
+
+Phase 2: Project Planning
+----------------------------
+This phase is key to successful project management and focuses on developing a roadmap that everyone will follow. This phase typically begins with setting goals. Two of the more popular methods for setting goals are S.M.A.R.T. and CLEAR:
+ 
+
+Smart Goals
+S.M.A.R.T. Goals – This method helps ensure that the goals have been thoroughly vetted. It also provides a way to clearly understand the implications of the goal-setting process.
+Specific – To set specific goals, answer the following questions: who, what, where, when, which, and why.
+Measurable – Create criteria that you can use to measure the success of a goal.
+Attainable – Identify the most important goals and what it will take to achieve them.
+Realistic – You should be willing and able to work toward a particular goal.
+Timely – Create a timeframe to achieve the goal.
+
+For more information about S.M.A.R.T. goals and to download free S.M.A.R.T. goal templates, read "The Essential Guide to Writing S.M.A.R.T. Goals."
+ 
+C.L.E.A.R. Goals – A newer method for setting goals that takes into consideration the environment of today’s fast-paced businesses.
+
+Collaborative – The goal should encourage employees to work together.
+Limited – They should be limited in scope and time to keep it manageable.
+Emotional – Goals should tap into the passion of employees and be something they can form an emotional connection to. This can optimize the quality of work.
+Appreciable – Break larger goals into smaller tasks that can be quickly achieved.
+Refinable – As new situations arise, be flexible and refine goals as needed.
+ 
+During this phase, the scope of the project is defined and a project management plan is developed. It involves identifying the cost, quality, available resources, and a realistic timetable. The project plans also includes establishing baselines or performance measures. These are generated using the scope, schedule and cost of a project. A baseline is essential to determine if a project is on track.
+ 
+At this time, roles and responsibilities are clearly defined, so everyone involved knows what they are accountable for. Here are some of the documents a PM will create during this phase to ensure the project will stay on track:
+
+Scope Statement – A document that clearly defines the business need, benefits of the project, objectives, deliverables, and key milestones. A scope statement may change during the project, but it shouldn’t be done without the approval of the project manager and the sponsor.
+Work Breakdown Schedule (WBS) –This is a visual representation that breaks down the scope of the project into manageable sections for the team.
+Milestones – Identify high-level goals that need to be met throughout the project and include them in the Gantt chart.
+Gantt Chart – A visual timeline that you can use to plan out tasks and visualize your project timeline.
+Communication Plan – This is of particular importance if your project involves outside stakeholders. Develop the proper messaging around the project and create a schedule of when to communicate with team members based on deliverables and milestones.
+Risk Management Plan – Identify all foreseeable risks. Common risks include unrealistic time and cost estimates, customer review cycle, budget cuts, changing requirements, and lack of committed resources.
+Tip: When creating a WBS, work packages shouldn’t be longer than 10 days. Be sure to solicit the input and perspective from team members about their specific tasks.
+
+Phase 3: Project Execution
+---------------------------
+This is the phase where deliverables are developed and completed. This often feels like the meat of the project since a lot is happening during this time, like status reports and meetings, development updates, and performance reports. A “kick-off” meeting usually marks the start of the Project Execution phase where the teams involved are informed of their responsibilities.
+ 
+Tasks completed during the Execution Phase include:
+
+Develop team
+Assign resources
+Execute project management plans
+Procurement management if needed
+PM directs and manages project execution
+Set up tracking systems
+Task assignments are executed
+Status meetings
+Update project schedule
+Modify project plans as needed
+
+
+
+While the project monitoring phase has a different set of requirements, these two phases often occur simultaneously.
+
+
+Share on Facebook
+ Share on Twitter
+ Share on LinkedIn
+ Share by Email
+Demystifying the 5 Phases of Project Management
+
+ Emily Esposito's picture
+Emily Esposito on October 5, 2015
+At the root of any successful project is a project manager (PM) worth his or her weight in gold. While some people think a project manager’s sole job is to remind everyone about deadlines and set up status meeting, that’s simply not the case. 
+
+There is a science to what they do -- they have a deep understanding of and can perfectly execute the five phases of project management. In this article, we’ll cover what each of these phases entail and share tips for boosting success during each stage.
+ 
+Developed by the Project Management Institute (PMI), the five phases of project management include conception and initiation, planning, execution, performance/monitoring, and project close. PMI, which began in 1969, is the world’s largest nonprofit membership association for the project management profession. It has set the standards for project, program, and portfolio management and offers training and certifications. The gold standard of certification from the association is the Project Management Professional (PMP) certification. There are seven other certifications available for different types of project management.
+ 
+In an effort to standardize project management information and practices, a team of over 80 PMI members created the Project Management Book of Knowledge (PMBOK). Currently in its fifth edition, the PMBOK Guide is continually being updated by the PMI and shares the fundamental practices that are used worldwide to achieve the best results. The PMBOK includes a process standard that can be applied to many projects; however, it does recognize that each project is different. It is up to PMPs to apply the techniques and phases covered in the PMBOK to the unique requirements of their project.
+
+PMBOK Concept of the Project Life Cycle
+
+When discussing project management phases, the mention of project life cycle is inevitable. So what’s the difference? The project phases make up a project life cycle, and as such, the phases are tailored to fit a project’s needs. According to the PMBOK, the elements of a project life cycle should define:
+
+What work must be accomplished
+What deliverables must be generated and reviewed
+Who must be involved
+How to control and approve each phase 
+Determining these elements will take a project from start to finish. It provides a systematic, timely, and controlled process that benefits a project’s stakeholders. This helps PMs define what needs to be accomplished before moving onto the next phase of a project.
+
+5 Phases of Project Management
+
+According to PMI, “project management is the application of knowledge, skills, tools, and techniques to a broad range of activities in order to meet the requirements of a particular project.” There are five phases of project management and if the lifecycle provides a high-level view of the project, the phases are the roadmap to accomplishing it.
+
+5 Phases of Project Management
+Phase 1: Project Initiation
+
+This is the start of the project, and the goal of this phase is to define the project at a broad level. This phase usually begins with a business case. This is when you will research whether the project is feasible and if it should be undertaken. If feasibility testing needs to be done, this is the stage of the project in which that will be completed.
+ 
+Important stakeholders will do their due diligence to help decide if the project is a “go.” If it is given the green light, you will need to create a project charter or a project initiation document (PID) that outlines the purpose and requirements of the project. It should include business needs, stakeholders, and the business case. Note: There are plenty of PID templates that adhere to PMBOK guidelines available online that you can download to help you get started.
+ 
+Tip: When creating a PID, don’t get too bogged down in technical requirements. Those will be clarified and clearly defined in Phase 2.
+
+Phase 2: Project Planning
+
+This phase is key to successful project management and focuses on developing a roadmap that everyone will follow. This phase typically begins with setting goals. Two of the more popular methods for setting goals are S.M.A.R.T. and CLEAR:
+ 
+
+Smart Goals
+S.M.A.R.T. Goals – This method helps ensure that the goals have been thoroughly vetted. It also provides a way to clearly understand the implications of the goal-setting process.
+Specific – To set specific goals, answer the following questions: who, what, where, when, which, and why.
+Measurable – Create criteria that you can use to measure the success of a goal.
+Attainable – Identify the most important goals and what it will take to achieve them.
+Realistic – You should be willing and able to work toward a particular goal.
+Timely – Create a timeframe to achieve the goal.
+
+For more information about S.M.A.R.T. goals and to download free S.M.A.R.T. goal templates, read "The Essential Guide to Writing S.M.A.R.T. Goals."
+ 
+C.L.E.A.R. Goals – A newer method for setting goals that takes into consideration the environment of today’s fast-paced businesses.
+
+Collaborative – The goal should encourage employees to work together.
+Limited – They should be limited in scope and time to keep it manageable.
+Emotional – Goals should tap into the passion of employees and be something they can form an emotional connection to. This can optimize the quality of work.
+Appreciable – Break larger goals into smaller tasks that can be quickly achieved.
+Refinable – As new situations arise, be flexible and refine goals as needed.
+ 
+During this phase, the scope of the project is defined and a project management plan is developed. It involves identifying the cost, quality, available resources, and a realistic timetable. The project plans also includes establishing baselines or performance measures. These are generated using the scope, schedule and cost of a project. A baseline is essential to determine if a project is on track.
+ 
+At this time, roles and responsibilities are clearly defined, so everyone involved knows what they are accountable for. Here are some of the documents a PM will create during this phase to ensure the project will stay on track:
+
+Scope Statement – A document that clearly defines the business need, benefits of the project, objectives, deliverables, and key milestones. A scope statement may change during the project, but it shouldn’t be done without the approval of the project manager and the sponsor.
+Work Breakdown Schedule (WBS) –This is a visual representation that breaks down the scope of the project into manageable sections for the team.
+Milestones – Identify high-level goals that need to be met throughout the project and include them in the Gantt chart.
+Gantt Chart – A visual timeline that you can use to plan out tasks and visualize your project timeline.
+Communication Plan – This is of particular importance if your project involves outside stakeholders. Develop the proper messaging around the project and create a schedule of when to communicate with team members based on deliverables and milestones.
+Risk Management Plan – Identify all foreseeable risks. Common risks include unrealistic time and cost estimates, customer review cycle, budget cuts, changing requirements, and lack of committed resources.
+Tip: When creating a WBS, work packages shouldn’t be longer than 10 days. Be sure to solicit the input and perspective from team members about their specific tasks.
+
+Phase 3: Project Execution
+
+This is the phase where deliverables are developed and completed. This often feels like the meat of the project since a lot is happening during this time, like status reports and meetings, development updates, and performance reports. A “kick-off” meeting usually marks the start of the Project Execution phase where the teams involved are informed of their responsibilities.
+ 
+Tasks completed during the Execution Phase include:
+
+Develop team
+Assign resources
+Execute project management plans
+Procurement management if needed
+PM directs and manages project execution
+Set up tracking systems
+Task assignments are executed
+Status meetings
+Update project schedule
+Modify project plans as needed
+ While the project monitoring phase has a different set of requirements, these two phases often occur simultaneously.
+ 
+Tip: Consider using cloud-based project management software so team members can update task status in real time.  
+
+Phase 4: Project Performance/Monitoring
+-----------------------------------------------
+This is all about measuring project progression and performance and ensuring that everything happening aligns with the project management plan. Project managers will use key performance indicators (KPIs) to determine if the project is on track. A PM will typically pick two to five of these KPIs to measure project performance:
+
+
+Project Objectives: Measuring if a project is on schedule and budget is an indication if the project will meet stakeholder objectives.
+Quality Deliverables: This determines if specific task deliverables are being met.
+Effort and Cost Tracking: PMs will account for the effort and cost of resources to see if the budget is on track. This type of tracking informs if a project will meet its completion date based on current performance.
+Project Performance: This monitors changes in the project. It takes into consideration the amount and types of issues that arise and how quickly they are addressed. These can occur from unforeseen hurdles and scope changes.
+During this time, PMs may need to adjust schedules and resources to ensure the project is on track
+
+
+
+Phase 5: Project Closure
+
+This phase represents the completed project. Contractors hired to work specifically on the project are terminated at this time. Valuable team members are recognized. Some PMs even organize small work events for people who participated in the project to thank them for their efforts. Once a project is complete, a PM will often hold a meeting – sometimes referred to as a “post mortem” – to evaluate what went well in a project and identify project failures. This is especially helpful to understand lessons learned so that improvements can be made for future projects.
+ 
+Once the project is complete, PMs still have a few tasks to complete. They will need to create a project punchlist of things that didn’t get accomplished during the project and work with team members to complete them. Perform a final project budget and prepare a final project report. Finally, they will need to collect all project documents and deliverables and store them in a single place.
+
+
+
+
+
+
+
+
+Project performance - KPI
+Risk Management Plan 
+Performance Review
+
+
+
+
+Metrics and KPI  (Key performance indicators)
+---------------------------------------------------------
+
+Most important metrics
+
+	Hours used vs. Hours estimated vs. Hours remaining
+	Resource Loading - To analyze team has enough work or less work
+	Hours logged per client or department
+	Earned value analysis - EVA ( project at risk, healthy and trouble) WBDG is method to find project 				health
+	Estimated profitability
+	Average time task stay in each stage
+	
+
+
+	e.g. For driving a car there are various KPI
+	How to decide KPI
+	-------------------------
+	1. High level snapshot/ priority
+	2. Identity Critical factors
+	3. Easy to Measure ()
+	4. Meaningful KPI
+	5. Weekly Report
+
+
+
+PMP Edureka entire seties
+-----------------------------------
+
+	https://www.youtube.com/watch?annotation_id=annotation_3189812329&feature=iv&index=1&list=PL9ooVrP1hQOGpEy_MII3YIp7y0JfJCeDE&src_vid=bbi2diraL8M&v=vsxHoicytkM

@@ -1,0 +1,101 @@
+What is Risk?
+Risk is a potential problem that is not yet occured. The risk already occured is called issue and is treated separately in software project planning.
+
+
+Risk could be negative (Threat) or positive (opportunity)
+
+Risk management is a critical activity in the project management planning and tracking. It include Risk Identification, Priortization and Treatment of risk faced by the business.
+
+
+Risk management is performed at various level e.g. Project level, program level, Industry level, country level or internaltional level.
+
+Risk arises from variety of perspective
+Project failure
+Safety
+Security
+Legal 
+liability and so on
+
+Lets look at the Risk Management process
+1) Risk Identification - Risk is identified within project scope. using number of resource, risk list and past history.
+
+Risk Appetitie - How much risk you can absortb
+Risk Tolerance - Limit in which risk is acceptable
+
+Risk Appetitle/Tolerance helps to choose the action item from the risk register
+
+
+2) Risk Priortization - Priortize the risk that is properly identified.
+There are 2 thing
+	Rate Risk Impact
+	Rate Risk Probability
+
+Finally calculate the risk index for the project
+
+	Risk Index = Sum of (risk impact * Risk probability)
+
+3) Risk Treatment
+*Risk Avoidance - postone the risky part to next release ()
+*Risk Transfer - To transfer risk to specialized company  (e.g. Outsourcing, Insurance)
+*Risk Mitigation - To solve the risk or minimize by taking action. To introduce an experience resource if the current team is inexperienced.
+*Risk Acceptance -Any risk that is not treated that is accepted. Due to reason due to cost or unable to mitigate. Not having another server if the server crashes.
+
+
+
+For Positive risk (Opportunities) - risk response planning strategy could be
+---------------------------------
+Expolit
+Share
+Enhance
+Accept
+
+
+
+
+
+Risk assessment is a continuous process that is done at differnet phases.
+
+
+Risk Responses : The steps taken to tackle risk
+  Due to response, there may create another risks. This is secondary risks
+
+
+Tools to analyze risks
+*SWOT Analysis - Stength, Weakness, Opporunity and Threats
+*Root Cause Analysis
+*Brainstorming
+*Risk Breakdown structure
+*Influence Diagram -> Network Diagram (How events are related)
+
+
+
+
+https://www.youtube.com/watch?v=bbi2diraL8M
+Edureka
+
+
+Qualitative Risk Analysis
+Quanititive Risk Analysis
+
+[Modelling and simulation technique]
+Monte-Carlo Simulation to finding the probablity index for risk
+
+Decision tree is used to analyze the risks
+
+
+
+
+---------------------------------------
+
+
+Risk Management
+
+Risk Metrix
+	High  >10
+	Medium  >5 and <=10
+	Low <=5
+
+
+
+
+deep study into PMP 
